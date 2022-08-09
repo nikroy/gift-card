@@ -1,0 +1,33 @@
+.avatar {
+    width: 150px;
+    border: 1px solid black;
+}
+.card{
+    border: 1px solid black;
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 100px;
+    background: #ddebf8;
+    color: #060410;
+    border-bottom: 6px solid #d8cefe;
+    border-left: 6px solid #d8cefe;
+}
+
+.space-between{
+    justify-content: space-around;
+}
+.italic{
+    font-style: italic;
+}
+.centering
+{
+    text-align: center ;
+    
+}
+.body{
+    background: #ddebf8;
+    color: #2b2839;
+}
